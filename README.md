@@ -1,4 +1,4 @@
-![logo](https://github.com/TanyaSaxena90/TanyaSaxena90/blob/main/download%20(1).jpeg)
+![logo](https://github.com/TanyaSaxena90/TanyaSaxena90/blob/main/images.jpeg)
 
 <h1 align="center">Hi 👋, I'm Tanya Saxena</h1>
 <h3 align="center">"Passionate Developer | Innovating with Code and Creativity"</h3>
