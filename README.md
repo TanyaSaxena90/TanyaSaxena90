@@ -1,4 +1,4 @@
-![logo](https://github.com/TanyaSaxena90/TanyaSaxena90/blob/main/images.jpeg)
+![logo](https://github.com/TanyaSaxena90/TanyaSaxena90/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Tanya Saxena</h1>
 <h3 align="center">"Passionate Developer | Innovating with Code and Creativity"</h3>
