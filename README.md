@@ -1,5 +1,4 @@
-![Profile Banner](https://www.google.com/imgres?q=banner%20image%20for%20github&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A840%2F1*b21FyqUbowHYAOQDXH0tDw.jpeg&imgrefurl=https%3A%2F%2Fitznihal.medium.com%2Fbeautify-your-github-profile-like-a-pro-93f2a3dacaf5&docid=H8_rAjgn0uofAM&tbnid=AkbtYKqoRvcCeM&vet=12ahUKEwjb9NXripeHAxWaZ2wGHTGLDjwQM3oECGUQAA..i&w=840&h=420&hcb=2&ved=2ahUKEwjb9NXripeHAxWaZ2wGHTGLDjwQM3oECGUQAA/tanyasaxena90/main/banner.png)
-
+![logo](https://github.com/TanyaSaxena90/TanyaSaxena90/blob/main/download%20(1).jpeg)
 
 <h1 align="center">Hi 👋, I'm Tanya Saxena</h1>
 <h3 align="center">"Passionate Developer | Innovating with Code and Creativity"</h3>
