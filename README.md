@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **tanyasaxen1122@gmail.com**
 
-- 📄 Know about my experiences [file:///home/nextdl008/Downloads/Tanya%20Resume%20(1)%20(6).pdf](file:///home/nextdl008/Downloads/Tanya%20Resume%20(1)%20(6).pdf)
+- 📄 Know about my experiences **Check my portfolio website.**
 
 - ⚡ Fun fact **I have traveled to 30 countries and love exploring new cultures and cuisines.**
 
